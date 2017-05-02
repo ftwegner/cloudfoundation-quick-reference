@@ -66,5 +66,5 @@ Leave a comment on the VMware Cloud Foundation community or feel free to reach o
 
 ## Thanks
 
-thanks to [@lamw](https://twitter.com/lamw) for inspiring me to create this quick reference.
+Thanks to [@lamw](https://twitter.com/lamw) for inspiring me to create this quick reference.
 
