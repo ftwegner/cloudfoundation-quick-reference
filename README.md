@@ -1,6 +1,6 @@
 # VMware Cloud Foundation Quick Reference
 
-![](vcf.png)
+![](icon-vcf.png)
 
 * Product Page [vmware.com/go/cloudfoundation](http://vmware.com/go/cloudfoundation)
 * Release Notes and Documentation [vmware.com/go/cloudfoundation-docs](http://vmware.com/go/cloudfoundation-docs)
