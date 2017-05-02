@@ -64,3 +64,7 @@
 
 Leave a comment on the VMware Cloud Foundation community or feel free to reach out to the VMware Cloud Foundation Technical Marketing team on Twitter [@tenthirtyam](https://twitter.com/tenthirtyam) [@kyle_gleed](https://twitter.com/kyle_gleed) [@joshuatownsend](https://twitter.com/joshuatownsend).
 
+## Thanks
+
+thanks to [@lamw](https://twitter.com/lamw)for inspiring me to create this quick reference.
+
