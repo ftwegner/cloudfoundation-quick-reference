@@ -17,7 +17,7 @@
 ## Cloud Foundation 2.x Resources
 
 * [Download](http://vmware.com/go/cloudfoundation-download)
-* [Release Notes and Documnetaiton](http://vmware.com/go/cloudfoundation-docs)
+* [Release Notes and Documentation](http://vmware.com/go/cloudfoundation-docs)
 * [FAQ](http://vmware.com/go/cloudfoundation-faq)
 * [Datasheet](http://vmware.com/go/cloudfoundation-datasheet)
 * [Hands-on Lab Simulation](http://vmware.com/go/cloudfoundation-hol)
@@ -62,7 +62,7 @@
 
 ## Feedback/Questions
 
-Leave a comment on the VMware Cloud Foundation community or feel free to reach out to the VMware Cloud Foundation Technical Marketing team on Twitter [@tenthirtyam](https://twitter.com/tenthirtyam) [@kyle_gleed](https://twitter.com/kyle_gleed) [@joshuatownsend](https://twitter.com/joshuatownsend).
+Leave a comment on the [VMware Cloud Foundation community](https://communities.vmware.com/community/vmtn/cloud-foundation) or feel free to reach out to the VMware Cloud Foundation Technical Marketing team on Twitter [@tenthirtyam](https://twitter.com/tenthirtyam) [@kyle_gleed](https://twitter.com/kyle_gleed) [@joshuatownsend](https://twitter.com/joshuatownsend).
 
 ## Thanks
 
