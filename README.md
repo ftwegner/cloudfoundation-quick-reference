@@ -2,6 +2,7 @@
 
 ![](icon-vcf.png)
 
+* Quick Reference (This Page) [vmwa.re/vcf](http://vmwa.re/vcf)
 * Product Page [vmware.com/go/cloudfoundation](http://vmware.com/go/cloudfoundation)
 * Release Notes and Documentation [vmware.com/go/cloudfoundation-docs](http://vmware.com/go/cloudfoundation-docs)
 * Download [vmware.com/go/cloudfoundation-download](http://vmware.com/go/cloudfoundation-download)
@@ -42,7 +43,7 @@
 * [Expanding a Workload Domain](https://youtu.be/ggk4u9yLBXk)
 * [Deleting a Workload Domain](https://youtu.be/eWNdrDG-_hY)
 
-## VMworld Sesisons
+## VMworld Sessions
 
 ### 2017
 
